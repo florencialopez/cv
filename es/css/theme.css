@@ -36,11 +36,11 @@ li {
 }
 
 /* Responsive */
-@media (max-width: 575px) {
+/*@media (max-width: 575px) {
 	body {
 		font-size: 13.5px;
 	}
-}
+}*/
 /* Header */
 #header {
 	position: relative;
