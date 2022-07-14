@@ -3,7 +3,7 @@ My name is Florencia Angelina López, I have a Degree in Design and Visual Commu
 
 At present, I am studying Fronted Web Development (React JS) and Design Thinking. Also, I am improving my English skills.
 
-I invite you to surfing my online cv: https://florencialopez.github.io/cv/
+I invite you to surf my online cv: https://florencialopez.github.io/cv/
 
 
 
