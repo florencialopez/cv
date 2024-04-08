@@ -761,7 +761,6 @@ li {
 	min-width: 125px;
 	text-align: center;
 	margin: 5px 0;
-	float: right;
 	font-size: 11.2px;
 	font-size: 0.7rem;
 	padding: 11.2px 16px;
@@ -1252,10 +1251,6 @@ html:not(.sticky-header-active) #header.header-transparent-dark-bottom-border-1 
 
 	html #header.header-transparent .header-body.bg-dark .header-nav-main:before, html #header.header-transparent .header-body.bg-color-dark .header-nav-main:before {
 		background-color: #212529;
-	}
-
-	html #header.header-transparent .header-nav-main:before {
-		/*width: calc(100% - 30px);*/
 	}
 
 	html #header.header-transparent .header-nav-main nav {
