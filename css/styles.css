@@ -27,9 +27,6 @@ body {
 #galaxy * {
 	position: relative;
 }
-#galaxy .bg {
-	/* background: url('../img/bg/bg.jpg') no-repeat 50% 50%; */
-}
 #galaxy .bg.center {
 	top: 50%;
 	left: 50%;
