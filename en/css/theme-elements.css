@@ -5,9 +5,6 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	8.0.0
 */
 /* Accordion */
-.accordion {
-	/* Modern */
-}
 
 .accordion .card {
 	margin-top: 5px;
@@ -10671,9 +10668,6 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 }
 
 /* Slider With Overlay */
-.rev_slider li.slide-overlay {
-	/* Slider With Overlay Opacity Level */
-}
 
 .rev_slider li.slide-overlay .slotholder:after {
 	width: 100%;
@@ -12505,10 +12499,6 @@ html.boxed .slider-container {
 }
 
 /* With Quotes */
-.testimonial.testimonial-with-quotes {
-	/* Remove Left Quote */
-	/* Remove Right Quote */
-}
 
 .testimonial.testimonial-with-quotes blockquote:before {
 	color: #444;
@@ -12726,7 +12716,6 @@ html.boxed .slider-container {
 	background-color: #CCC;
 	border-radius: 2px;
 	display: inline-block;
-	float: left;
 	font-size: 0.6em;
 	font-weight: 600;
 	margin: 8px -2px -15px 0px;
@@ -13805,6 +13794,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 
 /* Gradient Text */
 .gradient-text-color {
+	background-clip: text !important;
 	-webkit-background-clip: text !important;
 	-webkit-text-fill-color: transparent !important;
 }
