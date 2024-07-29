@@ -6294,11 +6294,11 @@ h6.text-shadow {
 }
 
 /* Responsive */
-@media (max-width: 575px) {
+/*@media (max-width: 575px) {
 	h2 {
 		line-height: 40px;
 	}
-}
+}*/
 
 @media (max-width: 767px) {
 	h1.big {
